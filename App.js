@@ -8,7 +8,7 @@ export default class App extends Component{
     return(
       <View>
         <Icon name="md-menu"size={32}/>
-        <Text>hiiiiiii</Text>
+        <Text>hi</Text>
       </View>
     
     );
